@@ -1,7 +1,7 @@
 # TaxBuddy
 
-A simple JavaScript-based solution to simplify tax-related tasks — inspired by modern tax tools, built for efficiency and user clarity.
-🏆 This project won the **Showdown Hackathon 2025 at NIT Durgapur**.
+- A simple JavaScript-based solution to simplify tax-related tasks — inspired by modern tax tools, built for efficiency and user clarity.
+- 🏆 This project won the **Showdown Hackathon 2025 at NIT Durgapur**.
 
 ## Features
 - Core logic to optimize tax computations
