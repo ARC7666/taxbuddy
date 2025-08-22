@@ -13,7 +13,7 @@
 - **JavaScript** (Node.js/Express.js) 
 - **HTML5** (for structuring)
 - **CSS3** (modular + global styling)
-- 
+  
 ## Live Preview
 https://taxbuddy-uwab.onrender.com/
 
